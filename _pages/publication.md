@@ -4,8 +4,8 @@ title: "Publications"
 ---
 
 1. Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). 
-Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. [:link:](https://www.sciencedirect.com/science/article/pii/S0006320725001594)
-<a href="https://example.com/your-document.pdf" target="_blank">
+Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. 
+<a href="https://www.sciencedirect.com/science/article/pii/S0006320725001594" target="_blank">
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
 </a>
 
