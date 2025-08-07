@@ -2,10 +2,13 @@
 permalink: /publication/
 title: "Publications"
 ---
-<div style="font-size: smaller;">
 
 1. Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). 
 Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. [:link:](https://www.sciencedirect.com/science/article/pii/S0006320725001594)
+<a href="https://example.com/your-document.pdf" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
 2. Moqanaki, E., **Milleret, C**., Dupont, P., Mattisson, J., Dey, S., Brøseth, H., ... & Bischof, R. (2025). Environmental variability across space and time drives the recolonization pattern of a historically persecuted large carnivore. Proceedings of the National Academy of Sciences, 122(5), e2401679122.
 3. Ausilio, G., Sand, H., Wikenros, C., Aronsson, M., **Milleret, C**, Nordli, K., ... & Zimmermann, B. (2024). Effects of large carnivores, hunter harvest, and weather on the mortality of moose calves in a partially migratory population. Wildlife Biology, 2024(6), e01179.
 4. **Milleret, C**., Dupont, P., Chapron, G., Swenson, J. E., & Bischof, R. (2024). Sweden is shooting brown bears in the dark. Science, 385(6713), 1052-1052.
