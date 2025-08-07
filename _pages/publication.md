@@ -2,6 +2,13 @@
 permalink: /publication/
 title: "Publications"
 ---
+
+<style scoped>
+table {
+  font-size: 10px;
+}
+</style>
+
 1. Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). 
 Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. [:link:](https://www.sciencedirect.com/science/article/pii/S0006320725001594)
 2. Moqanaki, E., **Milleret, C**., Dupont, P., Mattisson, J., Dey, S., Brøseth, H., ... & Bischof, R. (2025). Environmental variability across space and time drives the recolonization pattern of a historically persecuted large carnivore. Proceedings of the National Academy of Sciences, 122(5), e2401679122.
