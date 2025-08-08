@@ -3,11 +3,13 @@ permalink: /publication/
 title: "Publications"
 ---
 
+<div style="font-size: 0.85em;">
 1. Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). 
 Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0006320725001594" target="_blank">
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
 </a>
+
 
 2. Moqanaki, E., **Milleret, C**., Dupont, P., Mattisson, J., Dey, S., Brøseth, H., ... & Bischof, R. (2025). Environmental variability across space and time drives the recolonization pattern of a historically persecuted large carnivore. Proceedings of the National Academy of Sciences, 122(5), e2401679122.
 <a href="https://www.pnas.org/doi/10.1073/pnas.2401679122" target="_blank">
@@ -137,6 +139,7 @@ Mapping sex-and age-structure reveals lonely males at the front in an expanding 
 25. Ordiz, A., **Milleret, C**, J. Kindberg, J. Månsson, P. Wabakken, J. E. Swenson, and H. Sand. 2015. Wolves, people, and brown bears influence the expansion of the recolonizing wolf population in Scandinavia. Ecosphere 6(12):284. http://dx.doi.org/10.1890/ES15-00243.1 
 25. Nicholson, K.L., **Milleret, C**., Månsson, J. et al.  (2014) Testing the risk of predation hypothesis: the influence of recolonizing wolves on habitat use by moose. Oecologia 176, 69–80. 
 
+</div>
 # Technical reports
 1. Semper-Pascual, A., Dupont, P., **Milleret, C**., and Bischof, R., (2025). Spatial variation in detectability of bears, wolverines and wolves during large-scale non-invasive genetic sampling in Norway and Sweden- MINA fagrapport 104. 27 pp.
 2. Svensson, L., Wabakken, P., Maartmann, E., Nordli, K., Jensen, M. Ø., **Milleret, C**, ... & Flagstad, Ø. (2025). Bestandsovervåking av ulv vinteren 2024-2025.
