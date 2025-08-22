@@ -14,6 +14,6 @@ My work consists mostly in developing and applying statistical methods to estima
 I especially worked on the development of spatial-capture recapture models.
 These methods are now used to monitor wolf populations in France and in Scandinavia, as well as wolverines and bears in Scandinavia.
 
-Let's see if that works!
+Under construction...
 
  
