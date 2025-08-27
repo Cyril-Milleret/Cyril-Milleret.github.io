@@ -3,6 +3,11 @@ permalink: /publication/
 title: "Publications"
 ---
 
+1. <span style="font-size: 0.9em;"> **Milleret, C**., Dupont, P., Dey S., Brøseth H., Kindberg J., Turek D., de Valpine P., Åkesson M.,
+Wabakken P., Zimmermann B. and Bischof R. (2025) Map of death: spatially explicit mortality of the grey wolf. Proc. R. Soc. B.29220250948
+<a href="http://doi.org/10.1098/rspb.2025.0948" target="_blank"> 
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
 
 1. <span style="font-size: 0.9em;"> Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). 
 Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. 
