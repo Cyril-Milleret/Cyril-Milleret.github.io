@@ -231,6 +231,18 @@ Mapping sex-and age-structure reveals lonely males at the front in an expanding 
 
 
 # Technical reports
+24.  <span style="font-size: 0.9em;"> Duchamp, C,. **Milleret, C**., Gimenez, O., Augeard, B., Séon-Massin, N (2025). Etat de conservation du loup en France : 
+mise à jour 2025 de la viabilité démographique de la population sous régime de tirs dérogatoires - Office Français de la Biodiversité. 2025, 25 p. ⟨hal-05274113
+<a href="https://hal.science/hal-05274113v1" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
+23. <span style="font-size: 0.9em;"> Dupont, P., **Milleret, C**., Semper-Pascual, A., Brøseth, H., Kopatz, A., Kindberg, J. and Bischof R. (2025). Estimates of brown bear density, abundance, and population dynamics in Norway
+2015 - 2024 - MINA fagrapport 105. 35pp.
+<a href="https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif105.pdf" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
 22.  <span style="font-size: 0.9em;"> Semper-Pascual, A., Dupont, P., **Milleret, C**., and Bischof, R., (2025). Spatial variation in detectability of bears, wolverines and wolves during large-scale non-invasive genetic sampling in Norway and Sweden- MINA fagrapport 104. 27 pp.
 <a href="https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif104.pdf" target="_blank">
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
