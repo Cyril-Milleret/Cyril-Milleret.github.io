@@ -355,3 +355,17 @@ fagrapport 72. 30pp
 </a>
 
 
+# Book chapters
+2. <span style="font-size: 0.9em;"> Tallian, A., Ciucci, P., **Milleret, C**, Smith, D., Stahler, D., Wikenros, C., & Ordiz, A.(2023)
+ Wolves in a human world: social dynamics of the Northern Hemisphere’s most iconic social carnivore. In Social Strategies of Carnivorous Mammalian Predators: Hunting and Surviving as Families (pp. 89-138). Cham: Springer International Publishing.
+<a href="https://link.springer.com/content/pdf/10.1007/978-3-031-29803-5_4" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
+1. <span style="font-size: 0.9em;"> Ordiz, A., Krofel, M., **Milleret, C**., Seryodkin, I., Tallian, A., Støen, O. G., ... & Swenson, J. E. (2020)
+ Interspecific interactions between brown bears, ungulates, and other large carnivores. Bears of the World, 36-44.
+<a href="https://www.researchgate.net/publication/346496013_Interspecific_Interactions_between_Brown_Bears_Ungulates_and_Other_Large_Carnivores" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
+
