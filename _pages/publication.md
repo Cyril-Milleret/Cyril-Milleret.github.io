@@ -231,6 +231,11 @@ Mapping sex-and age-structure reveals lonely males at the front in an expanding 
 
 
 # Technical reports
+25.  <span style="font-size: 0.9em;"> **Milleret, C**., Duchamp, C., Vandel, JM., Gimenez, O.,  Mise à jour des estimations démographiques et des effectifs de la population de loups en France lors de l’hiver 2024/2025. (2025).  CNRS; OFB. .hal-05016361
+<a href="https://hal.science/hal-05417020v1" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
 24.  <span style="font-size: 0.9em;"> Duchamp, C,. **Milleret, C**., Gimenez, O., Augeard, B., Séon-Massin, N (2025). Etat de conservation du loup en France : 
 mise à jour 2025 de la viabilité démographique de la population sous régime de tirs dérogatoires - Office Français de la Biodiversité. 2025, 25 p. ⟨hal-05274113
 <a href="https://hal.science/hal-05274113v1" target="_blank">
