@@ -232,7 +232,7 @@ Mapping sex-and age-structure reveals lonely males at the front in an expanding 
 
 # Technical reports
 
-Milleret, C.,
+
 26.  <span style="font-size: 0.9em;"> **Milleret, C**.,  Dupont, P., and Bischof, R., 2026. Spatial variation in wolverine mortality, 2019–2024 - MINA fagrapport . 22 pp.
 <a href="https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif109.pdf" target="_blank">
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
