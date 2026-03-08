@@ -9,6 +9,13 @@ Wabakken P., Zimmermann B. and Bischof R. (2025) Map of death: spatially explici
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
 </a>
 
+1. <span style="font-size: 0.9em;"> Kervellec, M., Gimenez, O., Vanpé, C., Quenette, P. Y., Sentilles, J., Palazón, S., ... &  **Milleret, C**.
+(2025) Unravelling the effects of heterogeneity in space use on estimates of connectivity and population size: Insights from spatial capture-recapture modelling. Peer Community Journal, 5. article no. e122.
+<a href="https://peercommunityjournal.org/articles/10.24072/pcjournal.646/" target="_blank"> 
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
+
 1. <span style="font-size: 0.9em;"> Sanz-Pérez, A., Sazatornil, V., Palazón, S., Vanpé, C., Quenette, P. Y., Sentilles, J., Kervellec, M., **Milleret, C**.,  ... & Sollmann, R. (2025). 
 Mapping sex-and age-structure reveals lonely males at the front in an expanding brown bear population. Biological Conservation, 306, 111122. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0006320725001594" target="_blank"> 
