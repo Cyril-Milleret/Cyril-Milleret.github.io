@@ -3,6 +3,13 @@ permalink: /publication/
 title: "Publications"
 ---
 
+
+1. <span style="font-size: 0.9em;"> **Milleret, C**., Duchamp, C., Bauduin, S., Kaerle, C., Pirog, A., Queney, G., & Gimenez, O.  (2026)
+Estimating wolf population size in France using non-invasive genetic sampling and spatial capture-recapture models. Biological Conservation, 317, 111772.
+<a href="https://doi.org/10.1016/j.biocon.2026.111772" target="_blank"> 
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
 1. <span style="font-size: 0.9em;"> **Milleret, C**., Dupont, P., Dey S., Brøseth H., Kindberg J., Turek D., de Valpine P., Åkesson M.,
 Wabakken P., Zimmermann B. and Bischof R. (2025) Map of death: spatially explicit mortality of the grey wolf. Proceedings of the Royal Society. B.29220250948
 <a href="http://doi.org/10.1098/rspb.2025.0948" target="_blank"> 
