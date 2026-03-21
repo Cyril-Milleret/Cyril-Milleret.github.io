@@ -6,7 +6,7 @@ title: "Publications"
 
 1. <span style="font-size: 0.9em;"> **Milleret, C**., Duchamp, C., Bauduin, S., Kaerle, C., Pirog, A., Queney, G., & Gimenez, O.  (2026)
 Estimating wolf population size in France using non-invasive genetic sampling and spatial capture-recapture models. Biological Conservation, 317, 111772.
-<a href="https://doi.org/10.1016/j.biocon.2026.111772" target="_blank"> 
+<a href="https://oliviergimenez.github.io/pubs/milleretetal2026.pdf" target="_blank"> 
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
 </a>
 
