@@ -247,6 +247,13 @@ Mapping sex-and age-structure reveals lonely males at the front in an expanding 
 # Technical reports
 
 
+26.  <span style="font-size: 0.9em;"> **Milleret, C**.,  Dupont, P., Semper-Pascual, A., Hansen, N.R., Brøseth, H., Flagstad, Ø., Hedmark, E.,
+Kleven, O., Königsson, H., Spong, G., Kindberg, J., and Bischof, R., 2026. Estimates of wolverine density, abundance, and population dynamics in Scandinavia, 2015/16–2024/25- MINA
+fagrapport 112. 34 pp <a href="https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif112.pdf" target="_blank">
+  <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
+</a>
+
+
 26.  <span style="font-size: 0.9em;"> **Milleret, C**.,  Dupont, P., and Bischof, R., 2026. Spatial variation in wolverine mortality, 2019–2024 - MINA fagrapport . 22 pp.
 <a href="https://static02.nmbu.no/mina/publikasjoner/mina_fagrapport/pdf/mif109.pdf" target="_blank">
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
