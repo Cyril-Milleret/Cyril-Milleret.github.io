@@ -247,8 +247,7 @@ Mapping sex-and age-structure reveals lonely males at the front in an expanding 
 # Technical reports
 
 
-28.  <span style="font-size: 0.9em;"> Dupont, P., **Milleret, C**.,  Semper-Pascual, A., Brøseth, H., Flagstad, Ø., Kindberg, J., Svensson,L., and Bischof, R.,
-2026. Estimates of wolf density, abundance, and population dynamics in Sweden and Norway, 2016/17 - 2025/26 - MINA
+28.  <span style="font-size: 0.9em;"> Dupont, P., **Milleret, C**.,  Semper-Pascual, A., Brøseth, H., Flagstad, Ø., Kindberg, J., Svensson,L., and Bischof, R., 2026. Estimates of wolf density, abundance, and population dynamics in Sweden and Norway, 2016/17 - 2025/26 - MINA
 fagrapport 113. 37 pp <a href="https://www.researchgate.net/publication/406373173_Estimates_of_wolf_density_abundance_and_population_dynamics_in_Sweden_and_Norway_201617_-202526" target="_blank">
   <img src="/images/PDF_icon.svg" alt="PDF" width="16" style="vertical-align: middle;">
 </a>
